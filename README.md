@@ -13,6 +13,8 @@
 
 ![image](https://github.com/MainUps/youtube-downloader/assets/48703334/f7d836c3-6b01-443a-997e-9ccd242244fd)
 
-<h1> 사용하고 싶은 형식으로 확장자 변경(자동으로 .mp3로 저장되게 구현 중임) </h1>
+<h1>4. 사용하고 싶은 형식으로 확장자 변경 </h1>
 
 ![image](https://github.com/MainUps/youtube-downloader/assets/48703334/6ff43394-e17b-42e3-b531-c421c615ea12)
+
+(현재 자동으로 .mp3로 저장되게 구현 중)
