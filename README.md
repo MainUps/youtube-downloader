@@ -1,3 +1,12 @@
+<h1>
+  필수 조건
+</h1>
+  <h2>1. python 설치 </h2>
+  <h3>&nbsp&nbsp https://www.python.org/downloads/ </h3>
+  <h2>2. pip를 통해 pytube가 install 되어 있어야함 </h2>
+  <h3>&nbsp&nbsp cmd에서 {python -m pip install pytube}입력 </h3>
+
+
 <h1>1. 유튜브의 공유 기능을 통해 공유URL 획득</h1>
 
 ![image](https://github.com/MainUps/youtube-downloader/assets/48703334/b43db2c2-0e0a-4a36-97c2-6e7561c7f9eb)
